@@ -1,0 +1,15 @@
+/* h1 {
+    color: hsl(241, 100%, 58%);
+    background-color: #FF9A86;
+} */
+
+.box {
+    /* height: 100vh; */
+    /* width: 50vw; */
+    /* background-color: red; */
+    background-image: url("https://shorturl.at/73zAQ");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
